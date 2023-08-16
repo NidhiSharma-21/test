@@ -1,0 +1,6 @@
+cd playground
+echo "{{#user}
+Name: Nidhi Sharma
+Skills: HTML, CSS, JS, Bootstrap,Python(beginner),C++(intermediate)
+Email: nidhi.1502ns@gmail.com
+{{/user}}" > me.txt
